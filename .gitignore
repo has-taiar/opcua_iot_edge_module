@@ -68,8 +68,6 @@ docs/_build/
 # PyBuilder
 target/
 
-cadia_iot_edge.*
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
