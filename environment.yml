@@ -1,0 +1,20 @@
+name: opcua_iot_edge_module
+channels: 
+  - conda-forge
+  - anaconda
+  - default
+dependencies: 
+  - python=3.5
+  - IPython
+  - cryptography
+  - pytest
+  - coverage
+  - pycodestyle
+  - python-dotenv
+  - pip:
+    - opcua
+    - applicationinsights
+    - Flask
+    - flask-restful
+    - azure-iothub-device-client==1.4.0.0b3
+    - gunicorn

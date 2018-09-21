@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Users\\haltaiar\\AppData\\Local\\Continuum\\miniconda3\\envs\\iot_edge_module_opc_control\\python.exe",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Path": "pycodestyle",
+    "python.linting.pylintEnabled": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.pyTestArgs": ["-s"],
+    "python.linting.enabled": true,
+    "python.unitTest.promptToConfigure": true
+}
